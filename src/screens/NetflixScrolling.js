@@ -102,9 +102,5 @@ const styles = StyleSheet.create({
         fontWeight: "bold",
         color: "gray",
     },
-    imageStyle: {
-        height: 300,
-        width: 300,
-    }
 });
 export default NetFlixScrolling;
